@@ -5,4 +5,7 @@
 * This project ....
 * ...
 
+### Screenshots
+![Hotel Management with OO-model](https://github.com/CristianoDinh/mini_project/blob/main/images/HotelManagement_With_OOmodel.png)
+
 #### © 2024 Đinh.Gia.Bảo
