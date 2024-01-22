@@ -1,0 +1,6 @@
+# Welcome to Hotel Management Repository.
+### You will find in this repo the following stuff:
+* This project ....
+* ...
+
+#### © 2024 Đinh Gia Bảo
